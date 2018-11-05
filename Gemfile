@@ -9,3 +9,4 @@ gem 'rspec', group: :test
 gem 'capybara', group: :test
 gem 'pg'
 gem 'launchy'
+gem 'sinatra-flash'
